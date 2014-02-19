@@ -8,14 +8,6 @@
 *  Created: 11/15/2013
 *
 *
-*  Copyright and Disclaimer: 
-*  
-*     --------------------------------------------------------------- 
-*     This software is provided "AS IS" without warranty of any kind, 
-*     either expressed or implied, including but not limited to the 
-*     implied warranties of noninfringement, merchantability and/or  
-*     fitness for a particular purpose.
-*     --------------------------------------------------------------- 
 *     
 *
 \******************************************************************* ---*/
@@ -81,14 +73,7 @@
 
 /* Main FSM */
 #define 	STS_RESET_STATE				1         /* Main scan-the-sky FSM */
-#define 	STS_PWRSCAN_STATE		    2
-#define 	STS_RISING_EDGE_STATE		3
-#define 	STS_BINARY_SEARCH_STATE		4
-#define 	STS_FALLING_EDGE_STATE		5
-#define 	STS_RESCAN_STATE		    6
-#define 	STS_READY_STATE				7
-#define 	STS_SRBIN_STATE				8
-#define 	STS_COMPLETE_STATE			9
+
 
 /* Sub-FSMs */
 

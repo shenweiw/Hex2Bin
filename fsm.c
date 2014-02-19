@@ -8,14 +8,6 @@
 *  Created: 07/15/2005
 *
 *
-*  Copyright and Disclaimer: 
-*  
-*     --------------------------------------------------------------- 
-*     This software is provided "AS IS" without warranty of any kind, 
-*     either expressed or implied, including but not limited to the 
-*     implied warranties of noninfringement, merchantability and/or  
-*     fitness for a particular purpose.
-*     --------------------------------------------------------------- 
 *     
 *
 \******************************************************************* ---*/
